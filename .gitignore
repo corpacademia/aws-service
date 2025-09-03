@@ -6,4 +6,5 @@ node_modules/
 .terraform/
 **/.terraform/
 **/.terraform_*
+terraform_*
 terraform-provider-aws_*.exe
